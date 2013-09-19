@@ -1,3 +1,3 @@
 <plugins>
-  <plugin id="javadec-idea-plugin" url="http://javadec.github.io/downloads/javadec-idea-plugin.zip" version="0.1"/>
+  <plugin id="Java Decompiler" url="http://javadec.github.io/downloads/javadec-idea-plugin.zip" version="0.1"/>
 </plugins>
